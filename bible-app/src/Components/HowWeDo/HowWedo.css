@@ -1,0 +1,25 @@
+.wedo{
+  width: 25% !important;
+}
+
+.how-we-do-it-description{
+    width: 60%;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    line-height: 30px;
+}
+
+.strong{
+    color:  #3C0CEC;
+}
+  
+.bg-img{
+   background-image: url("../Assets/blog\ image.png");
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-clip: content-box;
+   height: 100vh;
+}
+
+
