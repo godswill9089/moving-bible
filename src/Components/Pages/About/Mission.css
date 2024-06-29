@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+}
+
+.p > p{
+    width: 100% !important;
+    font-weight: 700;
+}
+
+.abt-t{
+    width: 25%;
+}
