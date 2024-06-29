@@ -37,7 +37,7 @@ const About = () => {
           <button><FaArrowRight /></button>
         </div>
       </div>
-      <CardContainer />
+      {/* <CardContainer /> */}
     </div>
   )
 }
