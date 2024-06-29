@@ -2,10 +2,10 @@ import React, { useState } from 'react'
 import { Link } from "react-router-dom";
 import "./Navbar.css";
 import { NavLinks } from './Navlinks';
-import logo from "../Assets/tmb logo.png";
-import uk from "../Assets/Cana.png";
-import italy from "../Assets/italy.png";
-import nigeria from "../Assets/nigeria.png"
+import logo from "../../Assets/tmb logo.png";
+import uk from "../../Assets/Cana.png";
+import italy from "../../Assets/italy.png";
+import nigeria from "../../Assets/nigeria.png"
 import { FaChevronDown } from "react-icons/fa";
 
 const Navbar = () => {

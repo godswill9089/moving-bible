@@ -1,7 +1,7 @@
 // src/Footer.js
 import React from 'react';
 import './Footer.css';
-import Icon from "../Assets/TMBsa 1.png"
+import Icon from "../../Assets/TMBsa 1.png"
 import { IoLogoFacebook } from "react-icons/io5";
 import { FaInstagram } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";

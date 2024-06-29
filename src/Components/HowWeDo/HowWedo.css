@@ -17,13 +17,13 @@
   color: #3c0cec;
 }
 .how-we-do-component .carousel-screen-1 {
-  background-image: url('../Assets/blog\ image.png');
+  background-image: url('../../Assets/blog\ image.png');
 }
 .how-we-do-component .carousel-screen-2 {
-  background-image: url('../Assets/carousel-volunteer.svg');
+  background-image: url('../../Assets/carousel-volunteer.svg');
 }
 .how-we-do-component .carousel-screen-3 {
-  background-image: url('../Assets/carousel-family.svg');
+  background-image: url('../../Assets/carousel-family.svg');
 }
 .how-we-do-component .bg-img-2 {
   background-position: center;
